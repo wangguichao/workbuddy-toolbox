@@ -15,7 +15,7 @@
 
 - **Anthropic 官方技能**：Anthropic 维护的高质量技能（如 `docx` / `pdf` / `pptx` / `xlsx` / `schedule`），详见 [github.com/anthropics/skills](https://github.com/anthropics/skills)。
 - **本项目自建技能**：`skills/` 目录下按模块组织的 SKILL.md，可直接复制使用。
-- **腾讯 SkillHub**：面向中国用户的 AI 技能社区，收录大量精选技能，可搜索下载：[skillhub.cn/skills](https://skillhub.cn/skills)。
+- **腾讯 SkillHub**：面向中国用户的 AI 技能社区，收录大量精选技能，**WorkBuddy 可直接安装**。完整 Top 50 技能清单见 [docs/SkillHub技能清单.md](../docs/SkillHub技能清单.md)，可搜索下载：[skillhub.cn/skills](https://skillhub.cn/skills)。
 
 > 各能力模块文件顶部均标注了「🔌 可用技能」，说明每条能力可直接引用的技能与获取方式，实现开箱即用。
 

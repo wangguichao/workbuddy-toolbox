@@ -68,6 +68,12 @@ workbuddy-toolbox/
 
 除能力清单外，项目还为高频场景准备了标准化的 **SKILL.md 技能文件**（试点 15 个），供 Workbuddy / Claude 加载使用：每个技能包含适用场景、可发送指令、处理要点、输出要求与注意事项。查看 [技能库导航](skills/README.md)。
 
+### 从腾讯 SkillHub 安装技能
+
+SkillHub 是腾讯的 AI 技能社区（[skillhub.cn/skills](https://skillhub.cn/skills)），**WorkBuddy 已集成 SkillHub CLI，可直接安装技能**，无需手动搜索。完整的 Top 50 技能清单见 [docs/SkillHub技能清单.md](docs/SkillHub技能清单.md)。
+
+用法：直接对 WorkBuddy 说「帮我安装 SkillHub 上的『PDF 批处理大师』技能」，WorkBuddy 会自动安装；或执行 `skillhub install <技能名>`。
+
 ## 模块总览
 
 | 模块 | 主题 | 原始条数 | 扩展条目 |
