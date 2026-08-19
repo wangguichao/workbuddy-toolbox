@@ -9,6 +9,16 @@
 1. 把整个 `skills/` 目录或单个技能文件导入你的 AI 助手的技能目录（如 Claude 桌面应用可通过"保存技能"导入）。
 2. 使用时直接说对应场景，AI 会自动匹配技能执行；或打开技能文件，把「向 Workbuddy 发送的指令」复制给它。
 
+## 技能来源
+
+本项目的技能标注来自三类来源：
+
+- **Anthropic 官方技能**：Anthropic 维护的高质量技能（如 `docx` / `pdf` / `pptx` / `xlsx` / `schedule`），详见 [github.com/anthropics/skills](https://github.com/anthropics/skills)。
+- **本项目自建技能**：`skills/` 目录下按模块组织的 SKILL.md，可直接复制使用。
+- **腾讯 SkillHub**：面向中国用户的 AI 技能社区，收录大量精选技能，可搜索下载：[skillhub.cn/skills](https://skillhub.cn/skills)。
+
+> 各能力模块文件顶部均标注了「🔌 可用技能」，说明每条能力可直接引用的技能与获取方式，实现开箱即用。
+
 ## 技能清单
 
 ### 财务记账与报销
