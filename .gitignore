@@ -1,0 +1,28 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# 临时与日志
+*.log
+*.tmp
+*.bak
+
+# 本地配置
+.env
+.env.local
