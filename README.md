@@ -56,10 +56,17 @@ workbuddy-toolbox/
 │       ├── 模块12-本地系统与生活工具.md
 │       ├── 模块13-文件管理与安全备份.md
 │       └── 模块14-开发与工程.md
+├── skills/                 # 技能库：高频场景的 SKILL.md 技能文件
+│   ├── README.md            # 技能库导航与模板说明
+│   └── (财务/文档/表格等按模块组织的技能文件)
 └── .github/                # GitHub 模板（PR / Issue）
     ├── PULL_REQUEST_TEMPLATE.md
     └── ISSUE_TEMPLATE/
 ```
+
+## 技能库（Skills）
+
+除能力清单外，项目还为高频场景准备了标准化的 **SKILL.md 技能文件**（试点 15 个），供 Workbuddy / Claude 加载使用：每个技能包含适用场景、可发送指令、处理要点、输出要求与注意事项。查看 [技能库导航](skills/README.md)。
 
 ## 模块总览
 
