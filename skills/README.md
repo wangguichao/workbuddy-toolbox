@@ -25,46 +25,46 @@
 
 | 技能 | 对应能力 | 说明 |
 | --- | --- | --- |
-| [fund-daily-report](财务记账与报销/fund-daily-report.md) | #5 | 基金价格简报，定时邮件推送 |
-| [invoice-ocr](财务记账与报销/invoice-ocr.md) | #14 | 发票识别，生成报销台账 |
-| [bill-classifier](财务记账与报销/bill-classifier.md) | #18 | 支付宝/微信账单自动分类统计 |
+| [fund-daily-report](财务记账与报销/fund-daily-report.md) | #11 | 基金价格简报，定时邮件推送 |
+| [invoice-ocr](财务记账与报销/invoice-ocr.md) | #12 | 发票识别，生成报销台账 |
+| [bill-classifier](财务记账与报销/bill-classifier.md) | #13 | 支付宝/微信账单自动分类统计 |
 
 ### 办公文档处理
 
 | 技能 | 对应能力 | 说明 |
 | --- | --- | --- |
-| [pdf-to-word](办公文档处理/pdf-to-word.md) | #3 | PDF 批量转 Word |
-| [table-extract](办公文档处理/table-extract.md) | #27 | 批量提取文档表格汇总 Excel |
-| [md-convert](办公文档处理/md-convert.md) | #57 | Markdown 转 Word/PDF/HTML |
+| [pdf-to-word](办公文档处理/pdf-to-word.md) | #41 | PDF 批量转 Word |
+| [table-extract](办公文档处理/table-extract.md) | #43 | 批量提取文档表格汇总 Excel |
+| [md-convert](办公文档处理/md-convert.md) | #45 | Markdown 转 Word/PDF/HTML |
 
 ### 表格与数据分析
 
 | 技能 | 对应能力 | 说明 |
 | --- | --- | --- |
-| [excel-clean](表格与数据分析/excel-clean.md) | #7 | Excel 合并去重清洗画图 |
-| [excel-format](表格与数据分析/excel-format.md) | #15 | 日期格式化与手机号脱敏 |
-| [survey-analysis](表格与数据分析/survey-analysis.md) | #48 | 问卷数据汇总与图表 |
+| [excel-clean](表格与数据分析/excel-clean.md) | #52 | Excel 合并去重清洗画图 |
+| [excel-format](表格与数据分析/excel-format.md) | #53 | 日期格式化与手机号脱敏 |
+| [survey-analysis](表格与数据分析/survey-analysis.md) | #55 | 问卷数据汇总与图表 |
 
 ### 图片处理
 
 | 技能 | 对应能力 | 说明 |
 | --- | --- | --- |
-| [image-ocr](图片处理/image-ocr.md) | #42 | 图片文字识别转 Word |
+| [image-ocr](图片处理/image-ocr.md) | #21 | 图片文字识别转 Word |
 
 ### 办公自动化与效率
 
 | 技能 | 对应能力 | 说明 |
 | --- | --- | --- |
-| [daily-report](办公自动化与效率/daily-report.md) | #24 | 每日工作日报 |
-| [meeting-notes](办公自动化与效率/meeting-notes.md) | #65 | 会议纪要提炼 |
+| [daily-report](办公自动化与效率/daily-report.md) | #59 | 每日工作日报 |
+| [meeting-notes](办公自动化与效率/meeting-notes.md) | #61 | 会议纪要提炼 |
 
 ### 文件管理与安全备份
 
 | 技能 | 对应能力 | 说明 |
 | --- | --- | --- |
-| [batch-rename](文件管理与安全备份/batch-rename.md) | #21 | 批量重命名 |
-| [desktop-organizer](文件管理与安全备份/desktop-organizer.md) | #62 | 桌面文件整理 |
-| [backup](文件管理与安全备份/backup.md) | #80 | 定时备份 |
+| [batch-rename](文件管理与安全备份/batch-rename.md) | #94 | 批量重命名 |
+| [desktop-organizer](文件管理与安全备份/desktop-organizer.md) | #98 | 桌面文件整理 |
+| [backup](文件管理与安全备份/backup.md) | #99 | 定时备份 |
 
 ## 技能文件模板
 
