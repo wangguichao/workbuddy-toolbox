@@ -2,8 +2,12 @@
 
 > 一份「用 AI 助手自动化生活与工作」的 **100 条能力清单**，以及逐条扩展的 **可执行提示词 + 操作步骤**。
 
+[![GitHub](https://img.shields.io/badge/GitHub-wangguichao%2Fworkbuddy--toolbox-181717?logo=github&logoColor=white)](https://github.com/wangguichao/workbuddy-toolbox)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/wangguichao/workbuddy-toolbox?style=social)](https://github.com/wangguichao/workbuddy-toolbox)
+[![GitHub Forks](https://img.shields.io/github/forks/wangguichao/workbuddy-toolbox?style=social)](https://github.com/wangguichao/workbuddy-toolbox)
+[![GitHub Issues](https://img.shields.io/github/issues/wangguichao/workbuddy-toolbox)](https://github.com/wangguichao/workbuddy-toolbox/issues)
 
 ## 这是什么
 
